@@ -39,4 +39,5 @@ export class ProductEditComponent implements OnInit {
       this.router.navigate(['products']);
     });
   }
+
 }
